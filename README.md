@@ -11,7 +11,7 @@ Three possible cases are implemented:
 The simulation does not implement all the specifications of the 3GPP standard handover, but only those that are enough and necessary for BARON overhead performance evaluation.
 
 
-#**SIMULATION SCENARIO**:
+**SIMULATION SCENARIO**:
 
 In the simulation we consider a 2-dimensional plane with coordinates (𝑥, 𝑦) and located two AMFs, with each controlling 6 BSs.
 
