@@ -11,6 +11,7 @@ Three possible cases are implemented:
 The simulation does not implement all the specifications of the 3GPP standard handover, but only those that are enough and necessary for BARON overhead performance evaluation.
 
 SIMULATION SCENARIO:
+
 In the simulation we consider a 2-dimensional plane with coordinates (𝑥, 𝑦) and located two AMFs, with each controlling 6 BSs.
 The User (UE) is randomly placed in the 2-dimensional plane at the start of each simulation, and we assume that it has a connection to a legitimate Base-Station (BS)  at the start of the run.
 We choose the serving BS (sBS) to be the second-nearest BS to the UE. As a result, the nearest BS will be selected as the target BS (tBS) for handover.
