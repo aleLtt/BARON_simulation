@@ -6,7 +6,7 @@
     @Description:
         This file implements a simplified software simulation for 5G handover to evaluate the performance of BARON.
         Three possible scenarios are implemented:
-            1- Standard handover with no BAROn in place
+            1- Standard handover with no BARON in place
             2- Handover using BARON & no FBS attack in place
             3- Handover using BARON & FBS attack runnin -> in case of attack success => BARON connection recovery mechanism is activated
         The simulation does not implement all the specifications of 3GPP standard handover, but only those that are 
