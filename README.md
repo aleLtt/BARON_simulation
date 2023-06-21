@@ -5,9 +5,9 @@ The simulation if fully written in C++ language but requires also C standard lib
 
 The performance evaluation is considered in the handover scenario.
 Three possible cases are implemented:
-  1- Standard handover with no BARON in place
-  2- Handover using BARON & no FBS attack in place
-  3- Handover using BARON & FBS attack running -> in case of attack success, BARON connection recovery mechanism is activated
+  1- Standard handover with no BARON in place;
+  2- Handover using BARON & no FBS attack in place;
+  3- Handover using BARON & FBS attack running -> in case of attack success, BARON connection recovery mechanism is activated.
 The simulation does not implement all the specifications of the 3GPP standard handover, but only those that are enough and necessary for BARON overhead performance evaluation.
 
 
